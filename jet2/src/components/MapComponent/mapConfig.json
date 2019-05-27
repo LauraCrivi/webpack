@@ -1,0 +1,36 @@
+{
+  "apiKey": "AIzaSyDoGx4E--J0hy0NBrKqAYOdC38bnTa_8Vs",
+  "mapOptions": {
+    "center": {
+      "lat": 53.800814,
+      "lng": -1.548839
+    },
+    "zoom": 14,
+    "mapTypeControl": false,
+    "styles": [{
+      "featureType": "administrative.land_parcel",
+      "elementType": "labels",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }, {
+      "featureType": "administrative.locality",
+      "elementType": "labels",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }, {
+      "featureType": "administrative.neighborhood",
+      "elementType": "labels",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }, {
+      "featureType": "administrative.province",
+      "elementType": "labels",
+      "stylers": [{
+        "visibility": "off"
+      }]
+    }]
+  }
+}
